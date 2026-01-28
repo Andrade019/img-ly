@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/CaseComponentNoSSR.tsx -> ../components/case/CaseComponent\":{\"id\":\"app/CaseComponentNoSSR.tsx -> ../components/case/CaseComponent\",\"files\":[\"static/css/_app-pages-browser_src_components_case_CaseComponent_jsx.css\",\"static/chunks/_app-pages-browser_src_components_case_CaseComponent_jsx.js\"]}}"

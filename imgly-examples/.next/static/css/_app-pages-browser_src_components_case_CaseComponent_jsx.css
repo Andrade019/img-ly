@@ -1,0 +1,200 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/.pnpm/next@15.1.9_@babel+core@7.28.6_react-dom@19.0.1_react@19.0.1__react@19.0.1/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/.pnpm/next@15.1.9_@babel+core@7.28.6_react-dom@19.0.1_react@19.0.1__react@19.0.1/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./src/components/case/CaseComponent.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.CaseComponent_wrapper___u_ji {
+  width: 100%;
+  display: flex;
+  min-height: 640px;
+  flex-grow: 1;
+  border-radius: 0.75rem;
+  gap: 24px;
+}
+
+.CaseComponent_sidebar__pP_Ef {
+  width: 320px;
+  padding: 24px;
+  background: var(--ubq-surface, #f9f9f9);
+  border-radius: 12px;
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+
+@container (width <= 680px) {
+  .CaseComponent_wrapper___u_ji {
+    flex-direction: column;
+  }
+
+  .CaseComponent_sidebar__pP_Ef {
+    width: 100%;
+  }
+}
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/.pnpm/next@15.1.9_@babel+core@7.28.6_react-dom@19.0.1_react@19.0.1__react@19.0.1/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/.pnpm/next@15.1.9_@babel+core@7.28.6_react-dom@19.0.1_react@19.0.1__react@19.0.1/node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./src/components/case/FormSection.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.FormSection_formWrapper__12jIK {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  flex-shrink: 0;
+  align-self: stretch;
+}
+
+.FormSection_header__4H3tr {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  align-self: stretch;
+}
+
+.FormSection_price__5KfYa {
+  text-align: right;
+}
+
+.FormSection_subSection__E3DLl {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.FormSection_subSectionTitle__4U620 {
+  color: #000;
+  font-feature-settings:
+    'liga' off,
+    'clig' off;
+  font-family: 'IBM Plex Sans';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 142.857% */
+  letter-spacing: 0.28px;
+}
+
+.FormSection_productGrid__rmduv {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 12px;
+  gap: 12px;
+}
+
+.FormSection_productButton__Bp8u_ {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 12px;
+  border: 2px solid rgba(22, 22, 23, 0.08);
+  border-radius: 8px;
+  background: #fff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.FormSection_productButton__Bp8u_:hover {
+  border-color: rgba(94, 88, 255, 0.5);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.FormSection_productButtonActive__z2hr6 {
+  border-color: #5e58ff;
+  background: rgba(94, 88, 255, 0.05);
+  box-shadow: 0 0 0 2px rgba(94, 88, 255, 0.2);
+}
+
+.FormSection_productThumbnail__1_wdI {
+  width: 100%;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+.FormSection_productLabel__rQcQX {
+  font-size: 12px;
+  font-weight: 500;
+  text-align: center;
+  color: #000;
+}
+
+.FormSection_printDetails__14pJT {
+  display: flex;
+  flex-direction: row;
+  padding: 12px;
+  gap: 24px;
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid var(--ci-Border-Black-Light, rgba(22, 22, 23, 0.08));
+  background: var(--ci-surface-elevation-1-light, #f4f4f5);
+  /* Light / State / Hover */
+  box-shadow: 0px 0px 0px 1px rgba(18, 26, 33, 0.12) inset;
+}
+
+.FormSection_previewImage__67XyR {
+  height: 120px;
+}
+
+.FormSection_printDetailsText__zt_Xc {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-gap: 10px;
+  gap: 10px;
+  flex-grow: 1;
+}
+
+.FormSection_bold___cnCz {
+  font-weight: 500;
+}
+
+.FormSection_colorPicker__kXXl3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 6px;
+  align-self: stretch;
+  flex-wrap: wrap;
+}
+
+.FormSection_colorPickerButtonWrapper__YnvPF {
+  display: flex;
+  padding: 2px;
+  align-items: center;
+  border-radius: 100px;
+  border: 2px solid transparent;
+}
+
+.FormSection_colorPickerButtonWrapper__YnvPF.FormSection_active__Ta2WM {
+  border-color: black;
+}
+
+.FormSection_colorPickerButton__D1raX {
+  width: 24px;
+  height: 24px;
+  border-radius: 100px;
+  border: 1px solid var(--Light-Stroke-Contrast-2, rgba(18, 26, 33, 0.25));
+}
+
+.FormSection_centeredText__PwkEK {
+  text-align: center;
+}
+
+.FormSection_downloadLinkText__EmAWx {
+  color: var(--CI-v2-Accent-Primary, #5e58ff);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.FormSection_downloadLinkText__EmAWx:hover {
+  text-decoration: underline;
+}
+
+@container (width <= 600px) {
+  .FormSection_header__4H3tr {
+    flex-direction: column;
+  }
+}
+
