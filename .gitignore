@@ -1,6 +1,8 @@
-node_modules/
+imgly-examples/node_modules/
+novacores/.next/
 .pnpm/
-.next/
+imgly-examples/.next/
+novacores/.next/
 dist/
 build/
 

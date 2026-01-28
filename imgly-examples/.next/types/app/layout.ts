@@ -1,4 +1,4 @@
-// File: /home/kaua/Documentos/imgly-examples/src/app/layout.tsx
+// File: /home/kaua/Documentos/Programação/img-ly/imgly-examples/src/app/layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
